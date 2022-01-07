@@ -1,7 +1,7 @@
 #### Head Add
 
 ```html
-<script src="https://raw.githubusercontent.com/crypto-su/corsDown/master/src/cDg-min.js?token=AAZ4NYXE3UDVIPB6RWIEJ7DB26CU4"></script>
+<script src="cDg-min.js"></script>
 ```
 
 #### Body Add
