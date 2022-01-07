@@ -1,7 +1,7 @@
 #### Head Add
 
 ```html
-<script src="cDg-min.js"></script>
+<script src="src/cDg-min.js"></script>
 ```
 
 #### Body Add
