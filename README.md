@@ -1,3 +1,5 @@
+Note: This vulnerability was reported to google.
+
 #### Head Add
 
 ```html
